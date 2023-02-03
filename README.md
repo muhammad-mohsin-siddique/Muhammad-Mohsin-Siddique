@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin Siddique</h1>
 <h3 align="center">I am a Student Of Computer Science  from Pakistan</h3>
 
-<img align = "right" alt="coding" width = "450" src = "https://user-images.githubusercontent.com/124222112/216511862-ea5ea4b4-df9a-457e-8b8b-51bfabc90aaf.png">
+<img align = "right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/124222112/216511862-ea5ea4b4-df9a-457e-8b8b-51bfabc90aaf.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-mohsin-siddique&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-mohsin-siddique" /> </p>
