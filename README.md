@@ -9,11 +9,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-mohsin-siddique&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-mohsin-siddique" /> </p>
 
 
-- 🌱 I’m currently learning **Python, JAVA, MERN Full Stack Web Development**
+- 🌱 I’m currently learning **MERN Full Stack Web Development**
 
 - 📫 How to reach me **muhammadmohsinsiddique789@gmail.com**
 
 - ⚡ Fun fact **Something TO Learn**
+  
+- ⚡ Tools **VS-Code, VITE**
 
 <p align="left">
 </p>
